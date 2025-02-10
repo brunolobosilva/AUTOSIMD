@@ -1,6 +1,6 @@
 # **AUTOSIMD (1.07)** - Relatório de Alertas INMET
 
-O **AUTOSIMD** é uma ferramenta automatizada projetada por Bruno Lobão da Silva e desenvolvida inteiramente com suporte de inteligência artificial em Python para coletar dados de alertas meteorológicos do Instituto Nacional de Meteorologia (INMET) e gerar relatórios detalhados sobre municípios afetados no estado do Pará. O programa utiliza o Selenium para realizar web scraping e classifica os municípios por mesorregiões, facilitando a análise e tomada de decisões por parte do Corpo de Bombeiros Militar do Estado do Pará (CBMPA) e da Coordenadoria de Defesa Civil (CEDEC).
+O **AUTOSIMD** é uma ferramenta automatizada projetada por Bruno Lobão da Silva e desenvolvida inteiramente com suporte de inteligência artificial em Python para coletar dados de alertas meteorológicos do Instituto Nacional de Meteorologia (INMET) e gerar relatórios detalhados sobre municípios afetados no estado do Pará, classificados por mesoregião para facilitar a elaboração de boletins de alerta. O programa utiliza o Selenium para realizar web scraping e classifica os municípios por mesorregiões, facilitando a análise e tomada de decisões por parte do Corpo de Bombeiros Militar do Estado do Pará (CBMPA) e da Coordenadoria de Defesa Civil (CEDEC).
 
 ---
 
